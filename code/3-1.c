@@ -2,10 +2,10 @@
 
 int main()
 {
-    char a = "a";
-    char b = "b";
+    char a = 'a';
+    char b = 'b';
 
-    printf("sizeof(a+b) is : %u\n",sizeof(a + b));c
+    printf("sizeof(a + b) is : %u\n",sizeof(a + b));
         
     return 0;
 }
